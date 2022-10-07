@@ -1,1 +1,3 @@
-# Test_Git
+# maven-project
+
+Simple Maven Project
